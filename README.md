@@ -23,4 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Imagenes
 
+- ![image](https://github.com/BeltranJ128/UII-A7-Slider/assets/143763139/fdcc5812-7b63-4e26-aaa2-56cccc73280e)
+- ![image](https://github.com/BeltranJ128/UII-A7-Slider/assets/143763139/29d25141-0dcd-4e1d-bbbe-d9128e722fe0)
 - 
+- ![image](https://github.com/BeltranJ128/UII-A7-Slider/assets/143763139/7171db15-6049-44ce-a7f8-922b2b5933a1)
